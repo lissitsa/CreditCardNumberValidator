@@ -16,7 +16,7 @@
 
 ## Описание процесса тестирования
 
-В процессе тестирования использовались следующие артефакты*:
+В процессе тестирования использовались следующие артефакты:
 * тестовые данные
 
 В качестве тестовых данных использовались данные [cartoved.ru](https://cartoved.ru/common/generator-kreditnyh-kart.html), [freeformatter.com](https://www.freeformatter.com/credit-card-number-generator-validator.html):
