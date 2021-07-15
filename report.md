@@ -8,7 +8,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-[Не валидируются 14-тизначые номера карт](https://github.com/lissitsa/CreditCardNumberValidator/issues/1#issue-941515259)
+[Не валидируются 14-тизначные номера карт](https://github.com/lissitsa/CreditCardNumberValidator/issues/1#issue-941515259)
 
 [Не валидируются 19-тизначные номера карт](https://github.com/lissitsa/CreditCardNumberValidator/issues/2#issue-941516811)
 
