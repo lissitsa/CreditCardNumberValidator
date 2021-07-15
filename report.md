@@ -7,16 +7,16 @@
 На тестирование затрачено: 1.5 часа
 
 В результате тестирования выявлены следующие дефекты:
-[Не валидируются 14-тизначые номера карт] (https://github.com/lissitsa/CreditCardNumberValidator/issues/1#issue-941515259)
-[Не валидируются 19-тизначтые номера карт] (https://github.com/lissitsa/CreditCardNumberValidator/issues/2#issue-941516811)
-[Не валидируются 15-тизначные номера карт] (https://github.com/lissitsa/CreditCardNumberValidator/issues/3#issue-941518860)
+[Не валидируются 14-тизначые номера карт](https://github.com/lissitsa/CreditCardNumberValidator/issues/1#issue-941515259)
+[Не валидируются 19-тизначтые номера карт](https://github.com/lissitsa/CreditCardNumberValidator/issues/2#issue-941516811)
+[Не валидируются 15-тизначные номера карт](https://github.com/lissitsa/CreditCardNumberValidator/issues/3#issue-941518860)
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
 * тестовые данные
 
-В качестве тестовых данных использовались данные [cartoved.ru] (https://cartoved.ru/common/generator-kreditnyh-kart.html), [freeformatter.com] (https://www.freeformatter.com/credit-card-number-generator-validator.html):
+В качестве тестовых данных использовались данные [cartoved.ru](https://cartoved.ru/common/generator-kreditnyh-kart.html), [freeformatter.com](https://www.freeformatter.com/credit-card-number-generator-validator.html):
 * 5177434399772448
 * 5369902162956354
 * 5289000169266393
