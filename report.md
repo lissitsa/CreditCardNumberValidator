@@ -7,8 +7,11 @@
 На тестирование затрачено: 1.5 часа
 
 В результате тестирования выявлены следующие дефекты:
+
 [Не валидируются 14-тизначые номера карт](https://github.com/lissitsa/CreditCardNumberValidator/issues/1#issue-941515259)
+
 [Не валидируются 19-тизначтые номера карт](https://github.com/lissitsa/CreditCardNumberValidator/issues/2#issue-941516811)
+
 [Не валидируются 15-тизначные номера карт](https://github.com/lissitsa/CreditCardNumberValidator/issues/3#issue-941518860)
 
 ## Описание процесса тестирования
